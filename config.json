@@ -1,0 +1,7 @@
+{
+    "TOKEN": "NTg2Nzc4MDMyNTIyNjU3Nzk1.XQAcPQ.JLoozdbZyIejvjrVJGDJMldktB8",
+    "LOG_URL": "https://logviewername.herokuapp.com/",
+    "GUILD_ID": 556457282863628298,
+    "OWNERS": "324340486825574410",
+    "MONGO_URI": "mongodb+srv://itzybot:<password>@cluster0-cwalb.mongodb.net/test?retryWrites=true&w=majority"
+}
