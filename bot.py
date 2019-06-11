@@ -158,7 +158,7 @@ class ModmailBot(commands.Bot):
         """Adds commands automatically"""
         logger.info(LINE)
         logger.info(info("┌┬┐┌─┐┌┬┐┌┬┐┌─┐┬┬"))
-        logger.info(info("││││ │ │││││├─┤││"))
+        logger.info(info("││││ │ ││pizdec│││├─┤││"))
         logger.info(info("┴ ┴└─┘─┴┘┴ ┴┴ ┴┴┴─┘"))
         logger.info(info(f"v{__version__}"))
         logger.info(info("Authors: kyb3r, fourjr, Taaku18"))
